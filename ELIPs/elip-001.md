@@ -36,7 +36,6 @@ https://github.com/ethereum/EIPs/blob/master/EIPS/eip-155.md
 | 1337           | Geth private chains (default)              |
 | 6284           | Görli                                      |
 | 314158         | Stureby                                    |
-
-TRON Chains
+| TRON Chains    | --------------------------                 |
 | 200000         | TRON mainet                                |
 | 200001         | TRON Shasta                                |
