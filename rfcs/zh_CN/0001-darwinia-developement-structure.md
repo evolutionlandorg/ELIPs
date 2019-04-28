@@ -1,7 +1,7 @@
 - 功能描述: 达尔文网络的开发架构描述
 - 开始时间: 2019-04-28
 - RFC PR: None
-- Rust Issue: None
+- Github Issue: None
 
 # 概要
 [summary]: #summary
@@ -74,5 +74,3 @@ Polkdot最新公布了一些Parachain的竞价机制，需要锁定一定数量�
 - [3] https://www.parity.io/substrate/
 - [4] https://imgland.l2me.com/files/evolutionland/whitepaper_en.pdf
 - [5] https://en.wikipedia.org/wiki/Triffin_dilemma
-- [6] https://arxiv.org/abs/1709.08881
-- [7] https://ethresear.ch/t/draft-position-paper-on-resource-pricing/2838
