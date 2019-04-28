@@ -76,6 +76,9 @@
 
 一篮子货币的实现可以参考一下MakerDao的多资产抵押合约。
 
+https://first.vip/shareReport?id=3316&uid=5046
+
+
 
 Bancor的SRML模块需要实现一下。[WIP]
 
