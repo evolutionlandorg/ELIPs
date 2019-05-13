@@ -103,4 +103,6 @@
 
 # 参考
 
-- [1] [NFT与星际编码标准](https://mp.weixin.qq.com/s/_ynNgx1mmFTxOU322It_9A)
+- [1] [Substrate](https://github.com/paritytech/substrate)
+- [2] [Darwinia Hub](https://github.com/evolutionlandorg/darwinia-hub)
+- [3] [Darwinia Bridge](https://github.com/evolutionlandorg/darwinia-bridge)
