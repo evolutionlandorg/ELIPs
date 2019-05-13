@@ -48,6 +48,9 @@
 
 [WIP] https://github.com/evolutionlandorg/darwinia-appchain
 
+### 基于达尔文应用链的进化星球大陆(WIP)
+除了该大陆应用层面的需求之外，该大陆可能还会支持达尔文主链部分核心功能，这部分的支持是过渡性的，在达尔文主链上线后将迁移至主链。
+
 ## 达尔文企业应用链(Darwinia Enterprise AppChain)
 
 达尔文企业应用链(简称 DEAC)会增加一些企业需要的可插拔组件和联盟链组件，因此也可以归类为联盟链范畴。DEAC适用于希望使用达尔文内核和组件的企业用户和行业用户。
