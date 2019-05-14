@@ -44,7 +44,7 @@
 # 理由
 [rationale-and-alternatives]: #rationale-and-alternatives
 
-- Substrate是Polkadot底层的框架，比较适合跨链
+- Substrate是Polkadot底层的框架，符合达尔文网络跨链的理念
 - 最新的技术框架，比较好的底层模块解耦和支持，可以定制SRML
 - 可以很方便的接入Polkadot，站在巨人的肩膀上
 
