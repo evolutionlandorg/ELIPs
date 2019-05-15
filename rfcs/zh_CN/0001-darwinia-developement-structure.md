@@ -22,9 +22,8 @@
 
 关于Polkdot的网络拓扑可以参考其白皮书，其网络拓扑的发展会有点像分形结构，即局部的网络拓扑和整体的网络拓扑会是同构且比较相似。，下面的图片列出了达尔文网络可能在网络中的位置，以及达尔文网络与各个大陆链的关系。
 
-![Darwinia in Polkadot](images/0001-polkadot.jpeg)
 
-![Land Chains in Darwinia](images/0001-darwinia.jpeg)
+![Polkadot and Darwinia networks](images/0001-darwinia.png)
 
 
 # Reference-level explanation
