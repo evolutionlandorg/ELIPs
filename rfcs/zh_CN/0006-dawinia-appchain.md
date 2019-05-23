@@ -6,6 +6,8 @@
 # 概要
 [summary]: #summary
 
+<img src="https://raw.githubusercontent.com/evolutionlandorg/ELIPs/master/logo/darwinia_appchain.png" alt="drawing_appchain" width="250"/>
+
 # 达尔文应用链简介
 达尔文网络有一条枢纽链，被称为达尔文主链(Darwinia Hub)，可以作为ParaChain接入Polkadot，但是同时这个达尔文主链也被设计成一个Relay链，可以让各种的游戏链接入进来，为了方便游戏开发商和其他应用在不需要懂得太多区块链知识的基础上可以开发满足应用层面需求的区块链网络，达尔文网络基于Substrate和达尔文区块链内核(Darwinia Kernel)，设计开发一套应用区块链的框架，被称为达尔文应用链(Darwinia AppChain)。
 
@@ -52,6 +54,8 @@
 除了该大陆应用层面的需求之外，该大陆可能还会支持达尔文主链部分核心功能，这部分的支持是过渡性的，在达尔文主链上线后将迁移至主链。
 
 ## 达尔文企业应用链(Darwinia Enterprise AppChain)
+
+<img src="https://raw.githubusercontent.com/evolutionlandorg/ELIPs/master/logo/darwinia_enterprise_appchain.png" alt="drawing_enterprise_appchain" width="250"/>
 
 达尔文企业应用链(简称 DEAC)会增加一些企业需要的可插拔组件和联盟链组件，因此也可以归类为联盟链范畴。DEAC适用于希望使用达尔文内核和组件的企业用户和行业用户。
 
