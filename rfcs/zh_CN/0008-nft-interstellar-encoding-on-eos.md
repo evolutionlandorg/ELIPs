@@ -7,6 +7,7 @@
 [summary]: #summary
 这篇文稿介绍NFT在EOS上星际资产编码相关的设计，主要提到如何基于EOS dgoods标准进行编码和映射。
 
+![dGoods Compatible](https://github.com/MythicalGames/dgoods/raw/master/media/badge.png)
 
 # 动机和目的
 [motivation]: #motivation
